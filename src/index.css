@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /*box-sizing: border-box → Width/height include padding + border (more predictable).box-sizing: content-box → Width/height are just the content (default behavior).*/
+}
+body{
+  background: black;
+  color: white;
+}
